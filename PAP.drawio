@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T10:59:32.206Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.186 Safari/537.36" etag="3A8IsYNLFVxHFEoQ7an8" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T11:25:02.842Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.186 Safari/537.36" etag="Q5jlVqKDBqniPW03973N" version="17.4.4" type="github">
   <diagram id="a5L7xohFr41d-8u4_TB0" name="Page-1">
     <mxGraphModel dx="1679" dy="3279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
         <mxCell id="CUQLExU0p5yGPLY8ELJB-103" value="Ausgabe Passwort zu kurz" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="-1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="olq20LGthkGDlswXmMEZ-1" value="1.2. Passwort vergesse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="olq20LGthkGDlswXmMEZ-1" value="1.2. Passwort vergessen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1321" y="-1870" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="olq20LGthkGDlswXmMEZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="olq20LGthkGDlswXmMEZ-3" target="olq20LGthkGDlswXmMEZ-4" edge="1">
@@ -320,6 +320,167 @@
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-8" value="Neues Passwort eingeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1520" y="-1229.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-11" target="xrXSfagE0BFIaKEydtMP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-11" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-644" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-11" target="xrXSfagE0BFIaKEydtMP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-13" value="2. Eingabe Modell / Verbrauch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-704" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-14" target="xrXSfagE0BFIaKEydtMP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-14" value="Auswahl Fahrtkostenrechner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-16" target="xrXSfagE0BFIaKEydtMP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-16" target="xrXSfagE0BFIaKEydtMP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-16" value="Modell oder Verbrauch" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-18" target="xrXSfagE0BFIaKEydtMP-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-18" value="Modell" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-20" target="xrXSfagE0BFIaKEydtMP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-20" value="Verbrauch" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-22" target="xrXSfagE0BFIaKEydtMP-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-22" value="Eingabe Verbrauch Durchschnitt 100 km" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="-310" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-24" target="xrXSfagE0BFIaKEydtMP-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-24" value="Eingabe Schlagwort, ID etc." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="-310" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-26" target="xrXSfagE0BFIaKEydtMP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-31" value="Falsch" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-26" target="xrXSfagE0BFIaKEydtMP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-33" value="Wahr" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-26" target="xrXSfagE0BFIaKEydtMP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-26" value="Prüfung Float" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="-185" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-28" target="xrXSfagE0BFIaKEydtMP-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="-280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-28" value="Verbrauch erneut eingeben" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-32" target="xrXSfagE0BFIaKEydtMP-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-32" value="Verbrauch = Eingabe" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-34" value="Ende" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-38" target="xrXSfagE0BFIaKEydtMP-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-38" value="API Fahrzeugmodelle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-135" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-39" target="xrXSfagE0BFIaKEydtMP-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-39" value="Auto-Vorschlag Suchbegriff" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-42" target="xrXSfagE0BFIaKEydtMP-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-42" value="Anfrage API" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-45" target="xrXSfagE0BFIaKEydtMP-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-45" value="Rückgabe Verbrauch&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-47" value="Ende" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-53" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-51" target="xrXSfagE0BFIaKEydtMP-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-58" value="Nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-51" target="xrXSfagE0BFIaKEydtMP-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-51" value="Treffer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-57" target="xrXSfagE0BFIaKEydtMP-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="-280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-57" value="Kein Treffer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-63" target="xrXSfagE0BFIaKEydtMP-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-63" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1655" y="-660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-63" target="xrXSfagE0BFIaKEydtMP-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-65" value="3. Fahrt Beginn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="-720" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-66" target="xrXSfagE0BFIaKEydtMP-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-66" value="Fahrt beginnen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1655" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-71" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-68" target="xrXSfagE0BFIaKEydtMP-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-73" value="Nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-68" target="xrXSfagE0BFIaKEydtMP-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-68" value="Automatische Standortermittlung" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1653" y="-430" width="124" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-70" value="Standortdaten des Gerätes ermitteln" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1859" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-72" value="Eingabe Standort manuell" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1451" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
