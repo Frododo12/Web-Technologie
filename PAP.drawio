@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T11:36:09.683Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.186 Safari/537.36" etag="PRD-0TECKMkDcydpCTwj" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T11:46:45.858Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.186 Safari/537.36" etag="YAQ_Hu_uHKSeWqJMYZe8" version="17.4.4" type="github">
   <diagram id="a5L7xohFr41d-8u4_TB0" name="Page-1">
     <mxGraphModel dx="1679" dy="3279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -694,6 +694,109 @@
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-148" value="Ende" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3079" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-151" target="xrXSfagE0BFIaKEydtMP-161">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-151" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-151" target="xrXSfagE0BFIaKEydtMP-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-153" value="5. Berechnung Benzinpreis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-156" value="Kommt eingetlich vor Startpunkt eingabe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-157" target="xrXSfagE0BFIaKEydtMP-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-157" value="Auswahl Benzin&#xa;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="670" width="144" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-158" value="Super  E5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xrXSfagE0BFIaKEydtMP-157">
+          <mxGeometry y="30" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-159" value="Super E10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xrXSfagE0BFIaKEydtMP-157">
+          <mxGeometry y="60" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-160" value="Diesel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="xrXSfagE0BFIaKEydtMP-157">
+          <mxGeometry y="90" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-161" target="xrXSfagE0BFIaKEydtMP-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-161" value="Auswahl Benzin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="584.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-164" target="xrXSfagE0BFIaKEydtMP-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-164" value="Abruf Startkoordinate" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="292" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-168" target="xrXSfagE0BFIaKEydtMP-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-168" value="Eingabe Umkreis" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-175" value="Falsch" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-170" target="xrXSfagE0BFIaKEydtMP-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-178" value="Wahr" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-170" target="xrXSfagE0BFIaKEydtMP-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-170" value="Prüfung Float" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="1060" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-174" target="xrXSfagE0BFIaKEydtMP-168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-174" value="Zahl eingeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-177" target="xrXSfagE0BFIaKEydtMP-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-177" value="Abfrage API mit Koordinate, Benzintyp und Umkreis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-188" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-179" target="xrXSfagE0BFIaKEydtMP-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-191" value="Nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-179" target="xrXSfagE0BFIaKEydtMP-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-179" value="IndexError" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="1360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-184" target="xrXSfagE0BFIaKEydtMP-168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-184" value="Keine Tankstellen im Umkreis gefunden" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-190" target="xrXSfagE0BFIaKEydtMP-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-190" value="Preisvariable = günstigster Preis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-192" value="Ende" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
