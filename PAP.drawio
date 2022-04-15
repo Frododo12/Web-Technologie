@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T11:46:45.858Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.186 Safari/537.36" etag="YAQ_Hu_uHKSeWqJMYZe8" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T12:15:46.541Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.186 Safari/537.36" etag="aUWD9qhbvVKDv0yY-kwi" version="17.4.4" type="github">
   <diagram id="a5L7xohFr41d-8u4_TB0" name="Page-1">
-    <mxGraphModel dx="1679" dy="3279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1382" dy="3113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -733,7 +733,7 @@
         <mxCell id="xrXSfagE0BFIaKEydtMP-161" value="Auswahl Benzin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="584.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xrXSfagE0BFIaKEydtMP-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-164" target="xrXSfagE0BFIaKEydtMP-168">
+        <mxCell id="xrXSfagE0BFIaKEydtMP-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-164" target="xrXSfagE0BFIaKEydtMP-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-164" value="Abruf Startkoordinate" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
@@ -743,60 +743,233 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-168" value="Eingabe Umkreis" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="293" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-175" value="Falsch" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-170" target="xrXSfagE0BFIaKEydtMP-174">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.2739" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-178" value="Wahr" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-170" target="xrXSfagE0BFIaKEydtMP-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-170" value="Prüfung Float" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="1060" width="80" height="80" as="geometry" />
+          <mxGeometry x="313" y="1200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xrXSfagE0BFIaKEydtMP-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-174" target="xrXSfagE0BFIaKEydtMP-168">
+        <mxCell id="xrXSfagE0BFIaKEydtMP-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-174" target="xrXSfagE0BFIaKEydtMP-168">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="960" />
+              <mxPoint x="500" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-174" value="Zahl eingeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-177" target="xrXSfagE0BFIaKEydtMP-179">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-177" value="Abfrage API mit Koordinate, Benzintyp und Umkreis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="293" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-188" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-179" target="xrXSfagE0BFIaKEydtMP-184">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.4134" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1540" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-191" value="Nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-179" target="xrXSfagE0BFIaKEydtMP-190">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-179" value="IndexError" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="1360" width="80" height="80" as="geometry" />
+          <mxGeometry x="313" y="1500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-184" target="xrXSfagE0BFIaKEydtMP-168">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="960" />
+              <mxPoint x="159" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-184" value="Keine Tankstellen im Umkreis gefunden" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1210" width="150" height="60" as="geometry" />
+          <mxGeometry x="69" y="1350" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-190" target="xrXSfagE0BFIaKEydtMP-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-190" value="Preisvariable = günstigster Preis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="1530" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-192" value="Ende" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="1660" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-196" value="Nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-194" target="xrXSfagE0BFIaKEydtMP-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-200" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-194" target="xrXSfagE0BFIaKEydtMP-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-194" value="Manuelle Eingabe" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="312" y="930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-199" target="xrXSfagE0BFIaKEydtMP-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-199" value="Manuelle Preiseingabe" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="590" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-204" value="Nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-201" target="xrXSfagE0BFIaKEydtMP-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-201" target="xrXSfagE0BFIaKEydtMP-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-201" value="Float" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-203" target="xrXSfagE0BFIaKEydtMP-199">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-203" value="Bitte Zahl eingeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1080" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-206" target="xrXSfagE0BFIaKEydtMP-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-206" value="Wert Prüfung" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-214" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-208" target="xrXSfagE0BFIaKEydtMP-213">
+          <mxGeometry x="-0.7391" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-218" value="Nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-208" target="xrXSfagE0BFIaKEydtMP-210">
+          <mxGeometry x="-0.7778" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-208" value="Wert &amp;gt;= 1 AND &amp;lt;= 3" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-210" target="xrXSfagE0BFIaKEydtMP-199">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-210" value="Bitte gib einen gültigen Benzinpreis ein" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-213" target="xrXSfagE0BFIaKEydtMP-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-213" value="Preisvariable = Eingabe" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-215" value="Ende" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-220" target="xrXSfagE0BFIaKEydtMP-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-220" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-220" target="xrXSfagE0BFIaKEydtMP-220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-222" value="5.1. Berechnung Fahrtkosten" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1571" y="415" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-227" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-224" target="xrXSfagE0BFIaKEydtMP-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-224" value="Übergabe Start- und Endkoordinate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-226" target="xrXSfagE0BFIaKEydtMP-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-226" value="Übergabe Preis und Benzintyp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-228" target="xrXSfagE0BFIaKEydtMP-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-228" value="Abruf Maps API zur Distanzberechnung der Strecke" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-230" target="xrXSfagE0BFIaKEydtMP-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-230" value="Maps API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-244" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="xrXSfagE0BFIaKEydtMP-243">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1646" y="1035" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-232" value="Rückgabe gefahrene Strecke" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-246" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-243" target="xrXSfagE0BFIaKEydtMP-245">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-243" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Literverbrauch = Strecke * Verbrauch/100 km&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="1065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-245" target="xrXSfagE0BFIaKEydtMP-247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-245" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Gesamtkosten = Literverbrauch der Strecke * Kosten pro Liter&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1585" y="1154" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-250" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-247" target="xrXSfagE0BFIaKEydtMP-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-247" value="Ausgabe Gesamtkosten der Fahrt" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1585" y="1254" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-249" target="xrXSfagE0BFIaKEydtMP-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-262" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-249" target="xrXSfagE0BFIaKEydtMP-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-249" value="Speicherung der Ergebnisse in Strecke +1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="1335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-251" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1781" y="1325" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-261" target="xrXSfagE0BFIaKEydtMP-264">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="1505.784122242647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-269" value="Nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-261" target="xrXSfagE0BFIaKEydtMP-268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-261" value="Neue Fahrt" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1606" y="1465" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-265" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xrXSfagE0BFIaKEydtMP-264" target="xrXSfagE0BFIaKEydtMP-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-264" value="Start bei 1." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrXSfagE0BFIaKEydtMP-268" value="Ende" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="1635" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
