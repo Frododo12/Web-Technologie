@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T19:01:31.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="amwvAMvknNm38e0fNDe2" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T19:17:31.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xZ1Yl_F3vsAvT0d56dIM" version="17.4.4" type="github">
   <diagram id="a5L7xohFr41d-8u4_TB0" name="Page-1">
-    <mxGraphModel dx="1608" dy="3256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="3125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -449,7 +449,7 @@
         <mxCell id="xrXSfagE0BFIaKEydtMP-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xrXSfagE0BFIaKEydtMP-63" target="xrXSfagE0BFIaKEydtMP-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xrXSfagE0BFIaKEydtMP-65" value="3. Fahrt Beginn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="xrXSfagE0BFIaKEydtMP-65" value="3. Standortermittlung" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1640" y="-720" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xrXSfagE0BFIaKEydtMP-66" target="xrXSfagE0BFIaKEydtMP-68" edge="1">
@@ -471,7 +471,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-70" value="Standortdaten des Gerätes ermitteln" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1980" y="-400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1870" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xrXSfagE0BFIaKEydtMP-72" target="xrXSfagE0BFIaKEydtMP-74" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -548,20 +548,20 @@
         <mxCell id="xrXSfagE0BFIaKEydtMP-98" value="Speicherung Startkoordinaten" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xrXSfagE0BFIaKEydtMP-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xrXSfagE0BFIaKEydtMP-104" target="xrXSfagE0BFIaKEydtMP-106" edge="1">
+        <mxCell id="xrXSfagE0BFIaKEydtMP-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xrXSfagE0BFIaKEydtMP-104" target="U_qi9zB7oN6zD1L9TSrs-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-104" value="GPS, WLAN -&amp;gt; Umwandlung koordinaten" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1980" y="-260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1870" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xrXSfagE0BFIaKEydtMP-106" target="xrXSfagE0BFIaKEydtMP-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-106" value="Speicherung Startkoordinaten" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1980" y="-120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1870" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-108" value="Ende" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1980" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="1870" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xrXSfagE0BFIaKEydtMP-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xrXSfagE0BFIaKEydtMP-112" target="xrXSfagE0BFIaKEydtMP-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1049,9 +1049,6 @@
         <mxCell id="U_qi9zB7oN6zD1L9TSrs-49" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1251.5" y="-478" width="79" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U_qi9zB7oN6zD1L9TSrs-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop" vertex="1" parent="1">
-          <mxGeometry x="1710" y="-450" width="70" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="U_qi9zB7oN6zD1L9TSrs-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop" vertex="1" parent="1">
           <mxGeometry x="1286" y="-540" width="6" height="16" as="geometry" />
         </mxCell>
@@ -1111,6 +1108,36 @@
         </mxCell>
         <mxCell id="U_qi9zB7oN6zD1L9TSrs-77" value="Wähle Profil aus" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="159" y="-584" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qi9zB7oN6zD1L9TSrs-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_qi9zB7oN6zD1L9TSrs-81" target="xrXSfagE0BFIaKEydtMP-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qi9zB7oN6zD1L9TSrs-81" value="Standort auf Karte anzeigen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qi9zB7oN6zD1L9TSrs-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_qi9zB7oN6zD1L9TSrs-83" target="U_qi9zB7oN6zD1L9TSrs-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qi9zB7oN6zD1L9TSrs-83" value="Tatsächlich gefahrene Strecke vs theoretische Distanz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2121" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qi9zB7oN6zD1L9TSrs-84" value="gibts Live tracking easy?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2121" y="-280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qi9zB7oN6zD1L9TSrs-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_qi9zB7oN6zD1L9TSrs-86" target="U_qi9zB7oN6zD1L9TSrs-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qi9zB7oN6zD1L9TSrs-86" value="Vorschlag ideale Strecke?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2121" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qi9zB7oN6zD1L9TSrs-87" value="Was passiert zwischen Beginn und Ende der Fahrt?&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2111" y="-579" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qi9zB7oN6zD1L9TSrs-88" value="Einblenden Standorte und ideale Strecke" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2121" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_qi9zB7oN6zD1L9TSrs-90" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="-2096" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
