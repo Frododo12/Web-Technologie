@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T09:49:46.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YT2-xnt82kOSPD3ZIYG5" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-27T09:50:19.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="f890KoMXAFgIsDMYBa-G" version="21.5.0" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="542" dy="445" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1036,7 +1036,7 @@
         <mxCell id="Rx21Ho5yi4vYeOvrqYfL-8" value="&lt;font color=&quot;#cccccc&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Funktionelle Elemente&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFFFF;startSize=29;strokeColor=#CCCCCC;fontSize=11;swimlaneLine=0;" vertex="1" parent="Rx21Ho5yi4vYeOvrqYfL-1">
           <mxGeometry x="550" y="171" width="127" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Rx21Ho5yi4vYeOvrqYfL-9" value="Nützlichkeit" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" vertex="1" parent="Rx21Ho5yi4vYeOvrqYfL-8">
+        <mxCell id="Rx21Ho5yi4vYeOvrqYfL-9" value="Nützlichkeit" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="Rx21Ho5yi4vYeOvrqYfL-8">
           <mxGeometry x="12" y="93.88" width="110" height="44.75" as="geometry" />
         </mxCell>
         <mxCell id="Rx21Ho5yi4vYeOvrqYfL-10" value="Soziale Norm" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" vertex="1" parent="Rx21Ho5yi4vYeOvrqYfL-8">
@@ -1067,6 +1067,11 @@
         </mxCell>
         <mxCell id="Rx21Ho5yi4vYeOvrqYfL-18" value="Hedonismus" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" vertex="1" parent="Rx21Ho5yi4vYeOvrqYfL-16">
           <mxGeometry x="14.5" y="91.75" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="b1TGKfyw2vnqjG6csDei-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Rx21Ho5yi4vYeOvrqYfL-1" source="Rx21Ho5yi4vYeOvrqYfL-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497.363586425781" y="442.27272727272725" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Rx21Ho5yi4vYeOvrqYfL-19" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Systemische &lt;br style=&quot;font-size: 11px;&quot;&gt;Elemente" style="swimlane;whiteSpace=wrap;html=1;startSize=32;fillColor=#FFFFFF;strokeColor=#CCCCCC;fontSize=11;swimlaneLine=0;fontColor=#CCCCCC;" vertex="1" parent="Rx21Ho5yi4vYeOvrqYfL-1">
           <mxGeometry x="382" y="132" width="122" height="310" as="geometry">
