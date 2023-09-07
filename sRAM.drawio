@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T09:25:15.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wotQtLBES3Q0sPRrQwtN" version="21.6.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-09-07T09:45:22.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="EMXHprlcrf5Qiktpgn_E" version="21.6.8" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1080" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1048,7 +1048,7 @@
         <mxCell id="bjae4GnTcgGfl7nBPKfN-2" value="Akzeptanz&lt;br&gt;&amp;nbsp;von KI-Chatbots&lt;br&gt;R² = 0,471" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-1">
           <mxGeometry x="763.5" y="252" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bjae4GnTcgGfl7nBPKfN-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Relationale Elemente&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;swimlaneLine=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-1">
+        <mxCell id="bjae4GnTcgGfl7nBPKfN-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Relationale Elemente&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;swimlaneLine=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-1">
           <mxGeometry x="580" y="405" width="495" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bjae4GnTcgGfl7nBPKfN-4" value="Datenschutz-bedenken" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-3">
@@ -1063,7 +1063,7 @@
         <mxCell id="bjae4GnTcgGfl7nBPKfN-7" value="Angst vor KI" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-3">
           <mxGeometry x="375" y="23" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="bjae4GnTcgGfl7nBPKfN-8" value="&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Funktionelle Elemente" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFFFF;startSize=29;strokeColor=none;fontSize=11;swimlaneLine=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-1">
+        <mxCell id="bjae4GnTcgGfl7nBPKfN-8" value="&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Funktionelle Elemente" style="swimlane;whiteSpace=wrap;html=1;fillColor=none;startSize=29;strokeColor=none;fontSize=11;swimlaneLine=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-1">
           <mxGeometry x="566" y="171" width="127" height="200" as="geometry" />
         </mxCell>
         <mxCell id="bjae4GnTcgGfl7nBPKfN-9" value="Nützlichkeit&lt;br&gt;R² = 0,588" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-8">
@@ -1075,7 +1075,7 @@
         <mxCell id="bjae4GnTcgGfl7nBPKfN-11" value="Benutzer-freundlichkeit" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-8">
           <mxGeometry x="9" y="38.5" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="bjae4GnTcgGfl7nBPKfN-12" value="Soziale Elemente" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFFFF;glass=0;shadow=0;strokeColor=none;fontSize=11;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;swimlaneLine=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-1">
+        <mxCell id="bjae4GnTcgGfl7nBPKfN-12" value="Soziale Elemente" style="swimlane;whiteSpace=wrap;html=1;fillColor=none;glass=0;shadow=0;strokeColor=none;fontSize=11;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;swimlaneLine=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-1">
           <mxGeometry x="635" y="89" width="385" height="78" as="geometry">
             <mxRectangle x="635" y="71" width="133" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -1089,7 +1089,7 @@
         <mxCell id="bjae4GnTcgGfl7nBPKfN-15" value="Menschlichkeit" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-12">
           <mxGeometry x="15" y="26" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="bjae4GnTcgGfl7nBPKfN-16" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;Anwenderbezogene&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;Elemente" style="swimlane;whiteSpace=wrap;html=1;startSize=30;fillColor=#FFFFFF;strokeColor=none;fontSize=11;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;swimlaneLine=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-1">
+        <mxCell id="bjae4GnTcgGfl7nBPKfN-16" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;Anwenderbezogene&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;Elemente" style="swimlane;whiteSpace=wrap;html=1;startSize=30;fillColor=none;strokeColor=none;fontSize=11;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;swimlaneLine=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-1">
           <mxGeometry x="955" y="200" width="133" height="147" as="geometry" />
         </mxCell>
         <mxCell id="bjae4GnTcgGfl7nBPKfN-17" value="Symbolische&lt;br&gt;Motivation" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-16">
@@ -1098,7 +1098,7 @@
         <mxCell id="bjae4GnTcgGfl7nBPKfN-18" value="Hedonismus" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-16">
           <mxGeometry x="14.5" y="91.75" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="bjae4GnTcgGfl7nBPKfN-19" value="&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Systemische &lt;br style=&quot;font-size: 11px;&quot;&gt;Elemente" style="swimlane;whiteSpace=wrap;html=1;startSize=32;fillColor=#FFFFFF;strokeColor=none;fontSize=11;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;swimlaneLine=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-1">
+        <mxCell id="bjae4GnTcgGfl7nBPKfN-19" value="&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Systemische &lt;br style=&quot;font-size: 11px;&quot;&gt;Elemente" style="swimlane;whiteSpace=wrap;html=1;startSize=32;fillColor=none;strokeColor=none;fontSize=11;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;swimlaneLine=0;" vertex="1" parent="bjae4GnTcgGfl7nBPKfN-1">
           <mxGeometry x="382" y="132" width="122" height="300" as="geometry">
             <mxRectangle x="349" y="138.75" width="125" height="41" as="alternateBounds" />
           </mxGeometry>
