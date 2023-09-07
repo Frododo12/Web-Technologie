@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T13:31:33.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YU43Zm3XQ06wkMGr-y7P" version="21.6.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-09-07T09:23:58.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3YDYZhsjF7x_KMT4_P89" version="21.6.8" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1080" dy="495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -101,7 +101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Kopie von Page-1" id="ey9pfnsaLxafmeU31ev_">
-    <mxGraphModel dx="194" dy="1608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yAiB5-8E5BIYUY283EM6-0" />
         <mxCell id="yAiB5-8E5BIYUY283EM6-1" parent="yAiB5-8E5BIYUY283EM6-0" />
@@ -251,7 +251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Hypothesen" id="p13AWgqNLRS50dkZbel5">
-    <mxGraphModel dx="594" dy="1608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8cOobXQZzkbbPZnK6C__-0" />
         <mxCell id="8cOobXQZzkbbPZnK6C__-1" parent="8cOobXQZzkbbPZnK6C__-0" />
@@ -495,7 +495,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Kopie von Hypothesen" id="Oc-l4KoxH99bKj2oTgk9">
-    <mxGraphModel dx="194" dy="1608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vn2yFeotYzk0FZFo1Jkg-0" />
         <mxCell id="vn2yFeotYzk0FZFo1Jkg-1" parent="vn2yFeotYzk0FZFo1Jkg-0" />
@@ -764,11 +764,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Kopie von Hypothesen" id="lC1KpB6w63cX96NfrYkl">
-    <mxGraphModel dx="594" dy="1608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HEI9oN0_rh66aDYo88No-0" />
         <mxCell id="HEI9oN0_rh66aDYo88No-1" parent="HEI9oN0_rh66aDYo88No-0" />
-        <mxCell id="HEI9oN0_rh66aDYo88No-2" value="Akzeptanz&lt;br&gt;&amp;nbsp;von KI-Chatbots&lt;br&gt;(Nutzungsabsicht)" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" parent="HEI9oN0_rh66aDYo88No-1" vertex="1">
+        <mxCell id="HEI9oN0_rh66aDYo88No-2" value="Akzeptanz&lt;br&gt;&amp;nbsp;von KI-Chatbots&lt;br&gt;R² = 0,471" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" parent="HEI9oN0_rh66aDYo88No-1" vertex="1">
           <mxGeometry x="763.5" y="252" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HEI9oN0_rh66aDYo88No-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Relationale Elemente&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;swimlaneLine=0;" parent="HEI9oN0_rh66aDYo88No-1" vertex="1">
@@ -786,10 +786,10 @@
         <mxCell id="HEI9oN0_rh66aDYo88No-7" value="Angst vor KI" style="rounded=0;whiteSpace=wrap;html=1;" parent="HEI9oN0_rh66aDYo88No-3" vertex="1">
           <mxGeometry x="375" y="23" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="HEI9oN0_rh66aDYo88No-8" value="&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Funktionelle Elemente" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFFFF;startSize=29;strokeColor=none;fontSize=11;swimlaneLine=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="HEI9oN0_rh66aDYo88No-1" vertex="1">
+        <mxCell id="HEI9oN0_rh66aDYo88No-8" value="&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Funktionelle Elemente" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFFFF;startSize=29;strokeColor=none;fontSize=11;swimlaneLine=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="HEI9oN0_rh66aDYo88No-1" vertex="1">
           <mxGeometry x="566" y="171" width="127" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="HEI9oN0_rh66aDYo88No-9" value="Nützlichkeit" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="HEI9oN0_rh66aDYo88No-8" vertex="1">
+        <mxCell id="HEI9oN0_rh66aDYo88No-9" value="Nützlichkeit&lt;br&gt;R² = 0,588" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="HEI9oN0_rh66aDYo88No-8" vertex="1">
           <mxGeometry x="9" y="93.88" width="110" height="44.75" as="geometry" />
         </mxCell>
         <mxCell id="HEI9oN0_rh66aDYo88No-10" value="Soziale Norm" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="HEI9oN0_rh66aDYo88No-8" vertex="1">
@@ -842,7 +842,7 @@
           <mxGeometry x="6" y="249" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HEI9oN0_rh66aDYo88No-25" value="Kontrollvariablen" style="swimlane;whiteSpace=wrap;html=1;startSize=30;fillColor=#FFFFFF;dashed=1;strokeColor=#E6E6E6;" parent="HEI9oN0_rh66aDYo88No-1" vertex="1">
-          <mxGeometry x="1133" y="172" width="143" height="212" as="geometry" />
+          <mxGeometry x="1226" y="171" width="143" height="212" as="geometry" />
         </mxCell>
         <mxCell id="HEI9oN0_rh66aDYo88No-26" value="Bevorzugte menschliche Interaktion" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" parent="HEI9oN0_rh66aDYo88No-25" vertex="1">
           <mxGeometry x="20" y="96.5" width="110" height="45" as="geometry" />
@@ -1041,7 +1041,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Moderator" id="VETqL-4AxfITnT2FfDyb">
-    <mxGraphModel dx="833" dy="427" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Rx21Ho5yi4vYeOvrqYfL-0" />
         <mxCell id="Rx21Ho5yi4vYeOvrqYfL-1" parent="Rx21Ho5yi4vYeOvrqYfL-0" />
